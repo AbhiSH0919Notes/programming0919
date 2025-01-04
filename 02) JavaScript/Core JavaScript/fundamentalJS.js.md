@@ -269,7 +269,24 @@ let myDate = new Date();
 	clearInterval(clrInterval);
 ```
 
-#### 14) Small Utility
+
+#### 15) Type Conversion & Coercion
+
+> [!NOTE]- Conversion & Coercion
+> 
+> 	1) Conversion - We need to manually convert data types.
+> 	2) Coercion - Convert data types automatically.
+
+```Js
+"9" - "5" = 4
+"19" - "13" + "17" = "617"
+"19" - "13" + 17 = 23
+"123" < 57 = false
+5 + 6 + "4" + 9 - 4 - 2 = 1143
+```
+
+
+#### 15) Small Utility
 ```js
 // Confirm
 	if (confirm("want to go google.com")) document.location.pathname = "google.com";

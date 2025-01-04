@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0263e6b3ac641b",
+        "id": "6f6809203c94165c",
         "type": "tabs",
         "children": [
           {
-            "id": "0448ade24f1d2739",
+            "id": "ff2b626d33e14d92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Development_Workflow/Before_Build_Website.md",
-                "mode": "preview",
+                "file": "01) Html_CSS_Sass/02)  CSS - (Cascading Style Sheet).md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "74c3810304c45cbe",
+            "id": "692e8d86c209b5b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03) Git_GitHub/GitCommandsTable.md",
-                "mode": "preview",
-                "source": true
+                "file": "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03) Git_GitHub/GitCommandsTable.md",
+                "file": "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03) Git_GitHub/GitCommandsTable.md",
+                "file": "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03) Git_GitHub/GitCommandsTable.md"
+                "file": "02) JavaScript/Core JavaScript/fundamentalJS.js.md"
               }
             }
           }
@@ -160,45 +160,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74c3810304c45cbe",
+  "active": "692e8d86c209b5b8",
   "lastOpenFiles": [
-    "03) Git_GitHub/GitCommands.md",
-    "README.md",
-    "@Development_Workflow/Before_Build_Website.md",
-    "@Development_Workflow/Untitled.md",
-    "R",
-    "Other Information/Other_Information.md",
     "01) Html_CSS_Sass/02)  CSS - (Cascading Style Sheet).md",
-    "01) Html_CSS_Sass/Untitled.md",
-    "Other Information",
-    "01) Html_CSS_Sass/01) HTML - (Hyper Text Markup Language).md",
+    "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
     "01) Html_CSS_Sass/03) SASS - (Synthetic Awesome Style Sheet).md",
-    "01) Html_CSS_Sass/Behind_The_Scenes/Behind_The_Scene.md",
-    "01) Html_CSS_Sass/Html, Css & Js Components/Cards.md",
-    "Snapshots/How css works behind the scene.png",
-    "01) Html_CSS_Sass/Behind_The_Scenes/[].md",
-    "Snapshots",
-    "01) Html_CSS_Sass/Behind_The_Scenes/How.md",
+    "01) Html_CSS_Sass/01) HTML - (Hyper Text Markup Language).md",
+    "02) JavaScript/Core JavaScript/Behind_The_Scenes/JavaScript_Behind_The_Scenes.md",
+    "Resources/Images/JsJitCompilation.jpg",
+    "Resources/Images/JsCompilation&Interpretation.jpg",
+    "01) Html_CSS_Sass/Behind_The_Scenes/HTML_CSS_SASS_Behind_The_Scene.md",
+    "02) JavaScript/Core JavaScript/Behind_The_Scenes",
+    "02) JavaScript/Coding general (no extra material needed- practice only).md",
+    "04) Architecture/Architecture.md",
+    "JSON/package json.md",
+    "Resources/Images",
+    "Resources/Images/SassCodeCompileProcess.jpg",
+    "Resources/build process in sass.jpg",
+    "Resources/Images/SassArchitecture&import.jpg",
+    "Resources/Images/HowCssWorksBehindTheScene.png",
+    "README.md",
+    "04) Architecture",
+    "@Development_Workflow/Before_Build_Website.md",
     "01) Html_CSS_Sass/Html, Css & Js Components/Source (srcset, img, picture, video, audio).md",
-    "Untitled.canvas",
-    "2024-11-24.md",
-    "03) Git_GitHub/GitCommandsTable.md",
     "02) JavaScript/React Js/Configure_Redux-Toolkit_in_React.md",
+    "03) Git_GitHub/VSgitNotes.md",
+    "03) Git_GitHub/GitCommandsTable.md",
+    "03) Git_GitHub/GitCommands.md",
+    "01) Html_CSS_Sass/Behind_The_Scenes/Snapshots/HowCssWorksBehindTheScene.png",
+    "01) Html_CSS_Sass/Behind_The_Scenes/Snapshots/How css works behind the scene 1.png",
     "Projects_Record/My Projects.md",
     "Projects_Record/Jonas Projects.md",
-    "().md",
-    "JSON/package json.md",
-    "03) Git_GitHub/VSgitNotes.md",
-    "02) JavaScript/Coding general (no extra material needed- practice only).md",
-    "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
+    "Other Information/Other_Information.md",
+    "@Development_Workflow/Untitled.md",
+    "R",
+    "01) Html_CSS_Sass/Untitled.md",
+    "Other Information",
+    "01) Html_CSS_Sass/Html, Css & Js Components/Cards.md",
+    "01) Html_CSS_Sass/Behind_The_Scenes/[].md",
+    "Resources",
+    "01) Html_CSS_Sass/Behind_The_Scenes/How.md",
+    "Untitled.canvas",
+    "2024-11-24.md",
     "02) JavaScript/Core JavaScript",
-    "01) Html_CSS_Sass/Html, Css & Js Components/Testimonials.md",
-    "01) Html_CSS_Sass/Html, Css & Js Components/Headings.md",
     "@Development_Workflow",
     "01) Html_CSS_Sass/Behind_The_Scenes/Snapshots",
-    "Projects_Record",
-    "02) JavaScript/React Js",
-    "JavaScript/fundamentalJS.js",
-    "01) Html_CSS_Sass/Behind_The_Scenes"
+    "Projects_Record"
   ]
 }

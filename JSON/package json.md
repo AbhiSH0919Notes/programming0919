@@ -1,4 +1,7 @@
 ### package.josn for SASS
+
+![400](SassCodeCompileProcess.jpg)
+
 ```JSON
 {
 	"name": "natours",

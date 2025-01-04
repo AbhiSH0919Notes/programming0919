@@ -31,7 +31,7 @@
 
 ## Rare Useable Property & Pseudo Classes
 
-| No. | ---Property & Pseudo - classes--- | -----------------------------------------Use-----------------------------------------                                                  | -----------------Code Attributes-------------------                                                         |
+| No. | ---Property & Pseudo - classes--- | ---------------------------Use---------------------------                                                                              | -----------Code Attributes-----------                                                                       |
 | :-: | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
 | 01) | ==clip-path-polygon==             | create polygon of object                                                                                                               | `clip-path : polygon(x% y%, x% y%, x% y%, x% y%);`                                                          |
 | 02) | ==clip-path-circle==              | create circle of object                                                                                                                | `clip-path : circle(radius at x% y%);`                                                                      |
@@ -48,6 +48,7 @@
 | 13) | ==perspective==                   | use for rotate cards / container                                                                                                       | `perspective : 10rem;`                                                                                      |
 | 14) | ==calc width==                    | create auto column adapting width                                                                                                      | `width : calc(2 * ((100% - 2 * 6rem) / 3) + 6rem);`                                                         |
 | 15) | ==(hover:none)==                  | use for mobile devices                                                                                                                 | `@media only screen and (hover:none)`                                                                       |
+| 16) | ==clearfix==                      | fixing white gap                                                                                                                       | `content : "";` `clear : both;` `display : table;`                                                          |
 
 
 
@@ -364,7 +365,7 @@ grid-template-rows: [head-start] 100px [head-end box-start] 200px [box-end main-
 gap: 30px;
 }
 
- /* =================MINMAX & AUTO-FIT FUNCTION========================= */
+ /* =================MINMAX, AUTO-FILL & AUTO-FIT FUNCTION========================= */
   /* text overflow fixing with minmax function */
 .container {
   display: grid;

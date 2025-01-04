@@ -22,9 +22,9 @@
 | 10) | ==comment==        | Commenting Content                | `<comment> xyz </comment>`                                                                                    |
 | 11) | ==frameset==       | Add other website/webpage         | `<frameset width="" height=""> </frameset>`                                                                   |
 
-### Density switching
+### Density switching (Images according to screen resolutions)
 ```html
-	   <!-- density-switching = small screen - low resolution & large screen - high resolution (300 is the image width for small screen & 1000 is the large             screen width, & w is same as x : small or large screen) -->
+	   <!-- density-switching = small screen - low resolution & large screen - high resolution (300 is the image width for small screen & 1000 is the large screen width, & w is same as x : small or large screen) -->
 
              <!-- 300 and 1000 = proper image width in pixel -->
               <!-- sizes = 20vw or 30vw these value comes are proper image width(in media:900px) / 900px or 600px -->
@@ -34,7 +34,7 @@
 ```
 
 
-### Art direction
+### Art direction (*Different images for different viewport*)
 ```html
 		<picture class="footer__logo">
                 <!-- media=__Art Direction__ = Different images for different viewport (browser automatically choose required image) -->

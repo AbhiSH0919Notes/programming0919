@@ -1,7 +1,9 @@
 # CSS :-
 >[!INTRO]- CSS INTRO
->	- 1) CSS was first proposed by **Haakon Whim Lie** on **10 October 1994**.
->	- 2) CSS is used to Styling Webpage. **(CSS is the body of the Skeleton)**
+> 1) CSS was first proposed by **Haakon Whim Lie** on **10 October 1994**.
+> 2) CSS is used to Styling Webpage. **(CSS is the body of the Skeleton)**
+>- **Graphical overview of CSS Syntax**
+>	![600](CssSyntax.jpg)
 
 >[!SUMMARY]- **1) We can write CSS in 3 Types:**
 >  -

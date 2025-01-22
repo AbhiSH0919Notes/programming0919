@@ -1,3 +1,38 @@
+
+>[!SUMMARY]- JavaScript
+ >  1) JavaScript was invented by **Brendan Eich** in **1995**.
+ >  2) And later it became an **ECMA Standard** in **1997.**
+ >  3) JavaScript was *developed to add interactivity (such as animation & hover) on web pages*.
+ >  4) It is **high-level, object oriented** programming language.
+ >  5) It is mainly Invented for **client side** (front end) programming on web.
+ >  6) It is **case sensitive** programming language.
+ >  7) The **version from ES6(2015)** and onwards is known as **Modern JavaScript**.
+ >  8) **All browsers come** with the **JavaScript Engine**. (Interpreted by all modern-day browsers)
+
+
+>[!NOTE]- JavaScript Functions
+>- Three different ways of writing javaScript functions, but they all work in a similar way.
+>- **Receive input data ---> Transform data ---> Output data**
+>
+>	**1) Function Declaration : We can use function before its declared. (hoisted)**
+> 		  - `function funName(parameter) {`
+> 			`return parameter;`
+> 		 `}`
+> 		 `funName(argument);`
+> 		 
+>	**2) Function Expression : We can use store function in variable & we cant call before its declared.**
+> 		-	`const funName = function (parameter) {`
+> 			`return parameter;`
+> 		 `}`
+> 		 `const data = funName(argument)`
+> 		 
+> 	**3) Function Arrow : One line & automatically return value.**
+> 		- `const funName = (parameter) => parameter;`
+> 		
+
+
+
+
 #### 1) ways to print in JavaScript
  ```js
 alert("Hello World !");
@@ -20,7 +55,7 @@ const variable = dataType; // const is also block scope variable but we cant mut
 ```
 
 
-#### 4) there are two types of data types in JavaScript:
+#### 4) there are main two categories of data types in JavaScript:
   ##### **1) Primitive data type** : 1} Null 2} Undefined 3} Number 4} String 5} Booleans 6} Symbol 7} BigInt
   ##### **2) Reference data type** : 1} Objects 2} Arrays
 ```js

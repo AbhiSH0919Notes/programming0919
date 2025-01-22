@@ -1,5 +1,13 @@
 # git usage:-
 
+>[!question]- **What is Git?**
+> 1) Git is a **Software**.
+> 2) Git is maintained by **Linux**.
+> 3) Git is a **Command Line Tool**. (CMD)
+> 4) Git is installed **Locally on the System**.
+> 5) Git was first released in **2005**.
+> 6) Git has no management **Feature**.
+
 | No. | Substitude | Command Name |
 | --- | ---------- | ------------ |
 | 1)  | -v         | --version    |

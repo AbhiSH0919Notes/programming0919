@@ -1,12 +1,14 @@
 ## SASS Features
 | No. | -------------Feature-Name-------------                                                                            | ------------------------------Use------------------------------ | ----------------------Code---------------------- |
 | :-: | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------ |
-| 1)  | ==**Variables**==                                                                                                 | Declare value in variables                                      | `$primary_color: #fff;`                          |
-| 2)  | ==**Nesting**==                                                                                                   | Style child element in Parent selector.                         | `&__classname { color: $primary_color; }`        |
+| 1)  | ==**Variables**==                                                                                                 | Declare value in variables (Reusable values)                    | `$primary_color: #fff;`                          |
+| 2)  | ==**Nesting**==                                                                                                   | Style child element inside Parent selector/element.             | `&__classname { color: $primary_color; }`        |
 | 3)  | ==**@extend**==                                                                                                   | Inherit style from one selector to other selector.              | `@extend selectorName;`                          |
 | 4)  | ==**@import**==                                                                                                   | Import multiple files in one file.                              | `@import "filepath";`                            |
 | 5)  | ==**Mixins**==                                                                                                    | Create style component/block & reuse them as they want.         | `@include mixinName;`                            |
-| 6)  | ==**Operators**==<br>*- 1) Number Operator*<br>*- 2) Logical Operator*<br>*- 3) Control directives & expressions* |                                                                 |                                                  |
+| 6)  | ==**Operators**==<br>*- 1) Number Operator*<br>*- 2) Logical Operator*<br>*- 3) Control directives & expressions* | For mathematical operations right inside of CSS.                |                                                  |
+| 7)  | ==Functions==                                                                                                     | Similar to mixins : produce a value                             |                                                  |
+| 8)  | ==Control directives==                                                                                            | For writing complex code using conditionals & loops             |                                                  |
 
 
 

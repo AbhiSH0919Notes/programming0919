@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f6809203c94165c",
+        "id": "0c91880cf3b9d1f0",
         "type": "tabs",
         "children": [
           {
-            "id": "ff2b626d33e14d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01) Html_CSS_Sass/02)  CSS - (Cascading Style Sheet).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "692e8d86c209b5b8",
+            "id": "197ddda3ee0a06ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,35 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "692e8d86c209b5b8",
+  "active": "197ddda3ee0a06ff",
   "lastOpenFiles": [
-    "01) Html_CSS_Sass/02)  CSS - (Cascading Style Sheet).md",
-    "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
-    "01) Html_CSS_Sass/03) SASS - (Synthetic Awesome Style Sheet).md",
-    "01) Html_CSS_Sass/01) HTML - (Hyper Text Markup Language).md",
     "02) JavaScript/Core JavaScript/Behind_The_Scenes/JavaScript_Behind_The_Scenes.md",
+    "01) Html_CSS_Sass/02)  CSS - (Cascading Style Sheet).md",
+    "01) Html_CSS_Sass/01) HTML - (Hyper Text Markup Language).md",
+    "02) JavaScript/Core JavaScript/fundamentalJS.js.md",
+    "@Development_Workflow/Before_Build_Website.md",
+    "02) JavaScript/Coding general (no extra material needed- practice only).md",
+    "02) JavaScript/React Js/Configure_Redux-Toolkit_in_React.md",
+    "02) JavaScript/Core JavaScript/ES6.md",
+    "03) Git_GitHub/GitCommandsTable.md",
+    "04) Architecture/Architecture.md",
+    "03) Git_GitHub/GitCommands.md",
+    "03) Git_GitHub/VSgitNotes.md",
+    "01) Html_CSS_Sass/03) SASS - (Synthetic Awesome Style Sheet).md",
+    "Resources/Images/CssSyntax.jpg",
+    "Resources/Images/HtmlSyntax.jpg",
+    "01) Html_CSS_Sass/Html, Css & Js Components/Cards.md",
+    "01) Html_CSS_Sass/Behind_The_Scenes/HTML_CSS_SASS_Behind_The_Scene.md",
+    "Resources/Images/ES6Class.jpg",
+    "Resources/Images/WhichDataStructureUse.jpg",
+    "Resources/Images/WhichArrayMethodUse.jpg",
     "Resources/Images/JsJitCompilation.jpg",
     "Resources/Images/JsCompilation&Interpretation.jpg",
-    "01) Html_CSS_Sass/Behind_The_Scenes/HTML_CSS_SASS_Behind_The_Scene.md",
     "02) JavaScript/Core JavaScript/Behind_The_Scenes",
-    "02) JavaScript/Coding general (no extra material needed- practice only).md",
-    "04) Architecture/Architecture.md",
     "JSON/package json.md",
     "Resources/Images",
     "Resources/Images/SassCodeCompileProcess.jpg",
     "Resources/build process in sass.jpg",
     "Resources/Images/SassArchitecture&import.jpg",
-    "Resources/Images/HowCssWorksBehindTheScene.png",
     "README.md",
     "04) Architecture",
-    "@Development_Workflow/Before_Build_Website.md",
     "01) Html_CSS_Sass/Html, Css & Js Components/Source (srcset, img, picture, video, audio).md",
-    "02) JavaScript/React Js/Configure_Redux-Toolkit_in_React.md",
-    "03) Git_GitHub/VSgitNotes.md",
-    "03) Git_GitHub/GitCommandsTable.md",
-    "03) Git_GitHub/GitCommands.md",
-    "01) Html_CSS_Sass/Behind_The_Scenes/Snapshots/HowCssWorksBehindTheScene.png",
-    "01) Html_CSS_Sass/Behind_The_Scenes/Snapshots/How css works behind the scene 1.png",
     "Projects_Record/My Projects.md",
     "Projects_Record/Jonas Projects.md",
     "Other Information/Other_Information.md",
@@ -196,12 +187,10 @@
     "R",
     "01) Html_CSS_Sass/Untitled.md",
     "Other Information",
-    "01) Html_CSS_Sass/Html, Css & Js Components/Cards.md",
     "01) Html_CSS_Sass/Behind_The_Scenes/[].md",
     "Resources",
     "01) Html_CSS_Sass/Behind_The_Scenes/How.md",
     "Untitled.canvas",
-    "2024-11-24.md",
     "02) JavaScript/Core JavaScript",
     "@Development_Workflow",
     "01) Html_CSS_Sass/Behind_The_Scenes/Snapshots",

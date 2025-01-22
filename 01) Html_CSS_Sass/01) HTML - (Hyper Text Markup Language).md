@@ -7,8 +7,14 @@
  >  4) HTML HAVE 2 TYPES OF TAGS:
  > 	 1) **Paired Tags** :- We need open & close tag. - (`<div> </div>`)
  > 	 2) **Singular Tags** :- We don't need to close tag.  - (`<img src="./path" class="img">`)
+ > - **Graphical overview of HTML Syntax**
+ > ![600](HtmlSyntax.jpg)
+ 
+ 
 
-| No. | -----Tag Name----- | ---------------Use--------------- | ------------------------------------------Syntax-code--------------------------------------                   |
+
+
+| No. | -----Tag Name----- | --------Use cases-----------      | ------------------------------------------Syntax-code--------------------------------------                   |
 | :-: | :----------------- | :-------------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | 01) | ==cite==           | Showing Author Name               | ` <cite> name </cite> `                                                                                       |
 | 02) | ==article==        | Blog Post Article                 | ` <article> <> code </> </article> `                                                                          |
@@ -21,8 +27,18 @@
 | 09) | ==hgroup==         | Wrap one or more heading elements | ` <hgroup> <h1>title</h1> <h2>subtitle</h2> </hgroup> `                                                       |
 | 10) | ==comment==        | Commenting Content                | `<comment> xyz </comment>`                                                                                    |
 | 11) | ==frameset==       | Add other website/webpage         | `<frameset width="" height=""> </frameset>`                                                                   |
+| 12) | ==applet==         |                                   |                                                                                                               |
+| 13) | ==object==         |                                   |                                                                                                               |
+| 14) | ==acronym==        |                                   |                                                                                                               |
+| 15) | ==var==            |                                   |                                                                                                               |
+| 16) | ==legend==         |                                   |                                                                                                               |
+| 17) | ==canvas==         |                                   |                                                                                                               |
+| 18) | ==outut==          |                                   |                                                                                                               |
+| 19) | ==ruby==           |                                   |                                                                                                               |
+| 20) | ==time==           |                                   |                                                                                                               |
+| 21) | ==mark==           |                                   |                                                                                                               |
 
-### Density switching (Images according to screen resolutions)
+### Density switching (*Images according to screen resolutions*)
 ```html
 	   <!-- density-switching = small screen - low resolution & large screen - high resolution (300 is the image width for small screen & 1000 is the large screen width, & w is same as x : small or large screen) -->
 
